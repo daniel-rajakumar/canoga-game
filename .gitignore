@@ -1,0 +1,9 @@
+# macOS
+.DS_Store
+
+# IDE files
+.idea/
+
+# Build output
+cmake-build-*/
+Android/app.zip

@@ -6,6 +6,8 @@
 A multi-platform implementation of Canoga, a dice-and-strategy board game.
 Built as coursework for my Organization Programming Language class.
 
+> **Academic integrity:** if you're taking this course, please don't copy this project. Submitting it as your own work is an academic integrity violation.
+
 **Demo:** http://projects.canogagame.danielrajakumar.com/
 
 ## Table of Contents
